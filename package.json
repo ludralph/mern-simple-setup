@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ludralph/mern-simple-setup#readme",
   "dependencies": {
     "babel-loader": "^7.1.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.5.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
